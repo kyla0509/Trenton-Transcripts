@@ -5,7 +5,7 @@ Group 3
 Aly Maahs, [Jared Schmidt](https://github.com/schmij12), [Summer Martin](https://github.com/martis36), [Kyla Ramos](https://github.com/kyla0509), [Lalima Bhola](https://github.com/lalimabhola)    
 Spring 2021
 
-![TrentonianaTranscripts Logo](https://raw.githubusercontent.com/TCNJ-degoodj/stage-v-group-3/main/Code/static/img/logo2.png?token=ANWWE2OPVOLY2XR255MW5MDATBK2Q)
+![TrentonianaTranscripts Logo](https://raw.githubusercontent.com/kyla0509/Trentoniana-Transcripts/main/Code/static/img/logo2.png)
 
 ### Please see Installation Instructions blow, Installation Instructions document, or the Stage 5a wiki page before attempting to run the database files. 
 File paths in some documents may need to be changed.
